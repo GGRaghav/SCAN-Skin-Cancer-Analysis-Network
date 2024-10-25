@@ -17,5 +17,5 @@ This project was made in python using CNN, also known as Convolutional Neural Ne
 
 
 
-View my project inspiration/tutorial here: https://www.youtube.com/watch?v=mgxEfinI99U&list=PLWVKUEZ25V975TSDG6xdjIB-5chrrUP-S
+
 Credits to Mike Saint-Antione for the project idea and inspiration!
