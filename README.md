@@ -18,4 +18,4 @@ This project was made in python using CNN, also known as Convolutional Neural Ne
 
 
 
-Credits to Mike Saint-Antione for the project idea and inspiration!
+
