@@ -42,7 +42,7 @@ def process_file(file_path):
     img_array = torch.Tensor(img_array)
 
     net = Net()
-    net.load_state_dict(torch.load("/Volumes/RGHardDrive/saved_model.pth"))
+    net.load_state_dict(torch.load("saved_model.pth"))
     net.eval()
 
 
@@ -67,7 +67,7 @@ root=my_tk.Tk()
 root.title("SCAN Application - Raghav Garg")
 root.geometry("1800x1200")
 
-bg = PhotoImage(file = "/Volumes/RGHardDrive/newbgimage.png")
+bg = PhotoImage(file = "GUIbackground.png")
 
 label1 = Label(root, image = bg) 
 label1.place(x = -140, y = 0) 
